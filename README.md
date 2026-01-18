@@ -8,7 +8,7 @@ Dobrodošli u "LyriGO", uzbudljiv projekat razvoja savremene aplikacije za tekst
 
 ### 🎨 FAZA 1: Dizajn i Prototipiranje
 Fokus na vizuelni identitet i organizaciju:
-* **Teme**:Podrška za **Dark** i **Light** režim.
+* **Teme**: Podrška za **Dark** i **Light** režim.
 * **Responzivnost:** Potpuna prilagodljivost za rad na svim operativnim sistemima (IOS/MacOS, Android, Windows).
 * **Organizacija:** Strukturiranje fajlova, centralizacija ikonica i boja, kao i kreiranje **JSON** baze podataka.
 

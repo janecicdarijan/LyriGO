@@ -1,0 +1,14 @@
+{
+    "songs": [
+        {
+            "song-id": "Tisisveti",
+            "song-name": "Ti si Sveti",
+            "lyrics": "Line 1\nLine 2\nLine 3"
+        },
+        {
+            "song-id": "002",
+            "song-name": "Another Song",
+            "lyrics": "Verse 1\nChorus\nVerse 2"
+        }
+    ]
+}

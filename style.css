@@ -1,0 +1,83 @@
+html {
+    margin: 0 auto;
+    font-size: 62.5%;
+}
+
+body {
+    margin: 0;
+    background-color: #131415;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 65vh;
+    justify-content: space-between;
+    padding-top: 30vh;
+    padding-bottom: 5vh;
+    width: 100vw;
+}
+
+.dobrodosli {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.welcometxt {
+    color: #F1F1F1;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 4rem;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    margin: 0;
+}
+
+.LyriGO {
+    width: 40rem;
+    height: auto;
+}
+
+
+.btn {
+  display: flex;
+  padding: 1rem 1.28rem;
+  justify-content: center;
+  align-items: center;
+  border-style: none;
+  cursor: pointer;
+  width: 39rem;
+  color: #08D9E0;
+  background-color: #282C2F;
+  border-radius: 10px;
+  font-family: Poppins, sans-serif;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: normal;
+  text-decoration: none;
+
+  
+  transition: 
+    background-color 0.3s cubic-bezier(0.4, 0.0, 0.2, 1.0), 
+    border-radius 0.3s cubic-bezier(0.4, 0.0, 0.2, 1.0), 
+    color 0.3s cubic-bezier(0.4, 0.0, 0.2, 1.0),
+    transform 0.5s cubic-bezier(0.3, 0.0, 0, 1.4); 
+}
+
+.btn.btn-aktivan {
+  background-color: #08D9E0; 
+  border-radius: 100px;
+  color: #131415;
+}
+
+.btn:active {
+  transition-duration: 0.5s;
+}
+
+.btn:not(.btn-aktivan):hover {
+    background-color: #3A3A3A;
+}

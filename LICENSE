@@ -1,21 +1,21 @@
-MIT License
+# Pravna Licenca i Uslovi Korišćenja (Copyright)
 
-Copyright (c) 2026 Darijan
+**Copyright (C) 2024-2026 LyriGO Team - Sva prava zadržana.**
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Ovaj repozitorijum sadrži vlasnički izvorni kod, dizajn i bazu podataka projekta "LyriGO". Pristup ovom kodu ne podrazumeva prenos bilo kakvih autorskih prava.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+### 🚫 Ograničenja i Zabranjene Radnje:
+1. **Zabrana kopiranja:** Strogo je zabranjeno kopiranje, kloniranje, preuzimanje (download) ili reprodukcija bilo kog dela izvornog koda, vizuelnog dizajna ili JSON strukture podataka bez izričite pismene dozvole vlasnika.
+2. **Distribucija:** Zabranjeno je deljenje, objavljivanje ili distribucija ovog koda van zvanične GitHub stranice projekta. 
+3. **Komercijalna i privatna upotreba:** Zabranjeno je korišćenje ovog koda za kreiranje sopstvenih aplikacija, derivativnih projekata ili bilo kakvu komercijalnu eksploataciju.
+4. **Modifikacije:** Pravo na izmenu koda imaju isključivo autorizovani članovi razvojnog tima.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+### ℹ️ Namena Repozitorijuma:
+Ovaj repozitorijum je javan isključivo u svrhu:
+* Internog razvoja i saradnje članova tima.
+* Transparentnog uvida u napredak projekta za zainteresovanu zajednicu.
+
+**Svako neovlašćeno korišćenje, krađa intelektualne svojine ili zloupotreba koda biće podložni zakonskim posledicama u skladu sa Zakonom o autorskom i srodnim pravima Republike Srbije i međunarodnim propisima o zaštiti intelektualne svojine.**
+
+---
+*Za sva pitanja ili dozvole, kontaktirajte razvojni tim putem GitHub Issues-a.*
